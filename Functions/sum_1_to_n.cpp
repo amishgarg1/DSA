@@ -8,7 +8,7 @@ int sum=0;
         return sum;
 }
 int main(){
-cout<<sumN(5);
+cout<<sumN(3);
     
     return 0;
 }
